@@ -1,4 +1,4 @@
-![]()
+![How to Connect to MariaDB Database from Python and Perform CRUD Operations](images/how-mariadb-connects-python.jpg)
 # Python MariaDB/MySQL Database Connection and CRUD Operations Tutorial
 
 - In this repo we will learn how to connect to  a MariaDB/MySQL running locally on your System using Python and perform CRUD operations (CREATE,READ,UPDATE,DELETE).
