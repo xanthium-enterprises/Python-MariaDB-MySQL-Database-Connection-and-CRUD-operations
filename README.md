@@ -29,3 +29,16 @@ try:
                          )
 
 ```
+
+## Contents
+
+- Installing MariaDB Connector/Python
+- Connecting to the MariaDB Database using Python
+- Creating a Table in MariaDB using Python
+- Inserting a Row into MariaDB using Python
+- Inserting Multiple Rows into MariaDB using Python
+- Reading Rows from MariaDB using Python
+	- fetchall() method
+	- fetchone() method
+	- fetchmany(n) method
+
