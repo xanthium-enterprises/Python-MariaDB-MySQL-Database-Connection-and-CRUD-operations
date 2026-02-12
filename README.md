@@ -8,7 +8,7 @@
 
 ## Youtube Tutorial
 - ![Python MariaDB Tutorial for Beginners](images/github-small.png)
-- [Python MariaDB Connector Youtube Tutorial for Beginners]()
+- [Python MariaDB Connector Youtube Tutorial for Beginners](https://www.youtube.com/watch?v=2Cav22r_4KE)
 
 ## Online Tutorial
 
