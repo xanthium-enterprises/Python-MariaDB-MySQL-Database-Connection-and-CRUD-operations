@@ -6,6 +6,10 @@
 - MariaDB server running locally on our system
 - We will also learn about basic MariaDB Database Administration like Creating Databases ,Creating Users,Granting Permissions to users etc 
 
+## Youtube Tutorial
+- ![Python MariaDB Tutorial for Beginners](images/github-small.png)
+- [Python MariaDB Connector Tutorial for Beginners]()
+
 ## Online Tutorial
 
 - [How to Connect to MariaDB Database from Python and Perform CRUD Operations](https://www.xanthium.in/install-mariadb-database-python-connection-windows11-crud-ops-tutorial)
@@ -42,3 +46,14 @@ try:
 	- fetchone() method
 	- fetchmany(n) method
 
+## Writing Data into MariaDB Database using Python 
+
+- Here is an example of inserting a single or multiple rows into the MariaDB Database using Python
+- ![](images/inser-run.jpg)
+- ![](images/insert-data-heidisql.jpg)
+- ![](images/insert-multiple-rows-mariadb.jpg)
+
+
+## Reading Rows from MariaDB Database using Python 
+- ![](images/fetching-single-line-database.jpg)
+- ![](images/read-mariadb-database-fetchall.jpg)
