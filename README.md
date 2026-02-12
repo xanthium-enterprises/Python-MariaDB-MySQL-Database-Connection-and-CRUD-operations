@@ -16,6 +16,7 @@
 
 ## Notes
 
+- We use VENV Virtual Environment to install MariaDB Python Connector here,If you are new to Python VENV,do check our [tutorial on configuring Python venv virtual environment on Windows 11](https://www.youtube.com/watch?v=XLs5b8SZCd0)
 - Please note that we are hard coding our credentials into the source code which is not the best practice to follow.
 - This is just a tutorial and the credentials are just for a throw away database 
 
@@ -57,3 +58,8 @@ try:
 ## Reading Rows from MariaDB Database using Python 
 - ![](images/fetching-single-line-database.jpg)
 - ![](images/read-mariadb-database-fetchall.jpg)
+
+## References
+
+- [Learn How to Configure Python VENV Virtual Environment on Windows 11](https://www.xanthium.in/configuring-python-virtual-environment-venv-tutorial-on-windows-linux-os) 
+- [Python SQLite Programming Tutorials for Absolute Beginners](https://www.xanthium.in/connect-read-write-update-delete-sqlite3-database-python-cross-platform-tutorial)
